@@ -1,2 +1,4 @@
 # hello-world
-die 1!
+
+This is going to be great! Best commit ever.
+
